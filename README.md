@@ -1,6 +1,8 @@
 # Loan-Prediction-with-ML
 It was a final project during my Data Scientist course. I gained 370/380 points.
 
+Dataset is in zipfile
+
 
 
 Lending Club is a peer-to-peer lending company that connects borrowers with investors through an online platform. It serves people who need personal loans ranging from $ 1,000 to $ 40,000. The borrowers receive the full amount of the loan granted, minus the initial fee, which is paid to the company. Investors buy promissory notes backed by personal loans and pay the Lending Club a service fee. The Lending Club company provides data on all loans granted through its platform during certain periods.
